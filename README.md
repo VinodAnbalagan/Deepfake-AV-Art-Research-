@@ -102,18 +102,5 @@ Dolhansky, B., Bitton, J., Pflaum, B., Lu, J., Howes, R., Wang, M., & Canton Fer
 
 ---
 
-## **🚀 How to Contribute**
-
-Want to contribute? Fork the repo, submit PRs, or open an issue!
-
----
-
-## **📬 Contact**
-
-🔗 LinkedIn: [Your Profile]\
-📧 Email: [Your Email]
-
----
-
 **⭐ Star this repository if you find it useful!** 🚀
 
