@@ -64,9 +64,9 @@ Deepfake-AV-Art-Research/
 
 | **Domain**         | **Dataset**                                                                                                                                     | **Purpose**                                |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| Deepfake Detection | [DFDC](https://www.kaggle.com/c/deepfake-detection-challenge/data), [Celeb-DF](https://github.com/yuezunli/Celeb-DF)                            | Training deepfake detection models         |
-| AV Perception      | [KITTI](http://www.cvlibs.net/datasets/kitti/), [BDD100K](https://bdd-data.berkeley.edu/)                                                       | Object detection & synthetic scene testing |
-| AI Art             | [WikiArt](https://www.kaggle.com/cityscapes/painting-dataset), [QuickDraw](https://www.kaggle.com/datasets/google-developers/quickdraw-dataset) | Generating & explaining AI-created art     |
+| Deepfake Detection | [DFDC](https://www.kaggle.com/c/deepfake-detection-challenge/data)                                                                              | Training deepfake detection models         |
+| AV Perception      | KITTI, BDD100K                                                                                                                                  | Object detection & synthetic scene testing |
+| AI Art             | WikiArt, QuickDraw                                                                                                                              | Generating & explaining AI-created art     |
 
 ---
 
