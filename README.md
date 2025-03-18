@@ -21,45 +21,6 @@ This work is inspired by the latest research from **Meta, DARPA, and AI Ethics c
 
 ---
 
-## **📂 Repository Structure**
-
-```
-Deepfake-AV-Art-Research/
-│── datasets/               # Dataset links, preprocessing scripts
-│   ├── deepfake/           # Deepfake datasets (DFDC, Celeb-DF)
-│   ├── av_perception/      # AV datasets (KITTI, BDD100K)
-│   ├── ai_art/             # AI Art datasets (WikiArt, QuickDraw)
-│
-│── notebooks/              # Jupyter notebooks for experiments
-│   ├── 1_data_analysis.ipynb  # Capstone 1: Data Exploration & Preprocessing
-│   ├── 2_ml_models.ipynb      # Capstone 2: ML-based Detection
-│   ├── 3_gan_training.ipynb   # Capstone 3: GANs & Explainability
-│
-│── models/                 # Trained model weights, logs
-│   ├── deepfake_model.pth   # Saved model for deepfake detection
-│   ├── av_gan_model.pth     # GAN model for AV data augmentation
-│   ├── style_transfer.pth   # StyleGAN model for AI-generated art
-│
-│── src/                    # Python scripts for modular implementation
-│   ├── deepfake_detection.py
-│   ├── av_perception.py
-│   ├── ai_art_generator.py
-│
-│── reports/                # Research findings, graphs, and logs
-│   ├── figures/            # Plots and visualizations
-│   ├── research_paper.md   # Markdown draft of the research paper
-│
-│── deployment/             # Web app (Flask/Streamlit) for testing models
-│   ├── app.py
-│   ├── requirements.txt
-│
-│── README.md               # Front page for the repository
-│── LICENSE                 # Open-source license
-│── .gitignore              # Ignore unnecessary files
-```
-
----
-
 ## **📊 Datasets Used**
 
 | **Domain**         | **Dataset**                                                                                                                                     | **Purpose**                                |
